@@ -1,1 +1,1 @@
-Test book and Note of "Mathematical-Foundation-of-Reinforcement-Learning"
+Textbook and Note of "Mathematical-Foundation-of-Reinforcement-Learning"
